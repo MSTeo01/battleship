@@ -1,1 +1,1 @@
-# Code for Battleship Game on Python 
+# Code for Mini Game Battleship 
