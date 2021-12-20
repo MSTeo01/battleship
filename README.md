@@ -1,1 +1,1 @@
-# Code for Mini Game Battleship 
+# Battleship Mini Game Program
